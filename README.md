@@ -5,7 +5,6 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 - 🔭 I’m currently working on everything at the same time.
-- 😄 Pronouns: He/Him
 - ⚡ Age: 20
 
 ---
