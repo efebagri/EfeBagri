@@ -1,4 +1,4 @@
-### Efe Bağrı here <img src="https://github.githubassets.com/images/mona-whisper.gif" height="50px" width="50px" alt="Hey IMG" />
+### Efe here <img src="https://github.githubassets.com/images/mona-whisper.gif" height="50px" width="50px" alt="Hey IMG" />
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=razetro.razetro)
