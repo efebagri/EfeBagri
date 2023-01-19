@@ -10,29 +10,18 @@
 
 ---
 
-#### Languagues (since 18.01.2023):
+#### 🧑🏻‍💻 Languagues (since 18.01.2023):
 
-<img src="https://wakatime.com/share/@Razetro/bf38e739-a7d9-4a60-9e47-9c68b5b0dfc0.png" />
+<img src="https://wakatime.com/share/@Razetro/6c0a2631-d162-4758-a341-d7df285e8539.png" />
 
-#### Coding Editors (since 18.01.2023):
+#### ⌨️ Coding Editors (since 18.01.2023):
 
-<img src="https://wakatime.com/share/@Razetro/9f2c09e9-6bf9-425a-8d87-d44b96f81bf5.png" />
+<img src="https://wakatime.com/share/@Razetro/fd3eb1f7-3706-4da6-9d4f-226bd281c7dc.png" />
 
-#### Activity (last 30 days):
+#### 📈 Activity (last 30 days):
 
-<img src="https://wakatime.com/share/@Razetro/d79db3ee-830a-4708-8963-fe23e556ca74.png" />
+<img src="https://wakatime.com/share/@Razetro/785627b2-636d-4dcc-a082-2810850f18ab.png" />
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Microsoft%20Windows%2011-informational?style=flat&logo=Windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJ%20IDEA&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+<img src="https://wakatime.com/share/@Razetro/e36521fe-c9c1-431d-8fde-d0881db18a12.png" />
