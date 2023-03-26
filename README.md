@@ -18,9 +18,9 @@
 
 <img src="https://wakatime.com/share/@Razetro/fd3eb1f7-3706-4da6-9d4f-226bd281c7dc.png" />
 
-#### 📈 Activity (last 7 days):
+#### 📈 Activity (last 30 days):
 
-<img src="https://wakatime.com/share/@Razetro/19ee2e79-b32d-42a5-9654-2dd07f87fbdb.png" />
+<img src="https://wakatime.com/share/@Razetro/a0517b96-91c0-4c4b-8046-45c649428f57.png" />
 
 ## 🔧 Technologies & Tools
 
