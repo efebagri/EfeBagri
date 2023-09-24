@@ -1,4 +1,4 @@
-### Efe here <img src="https://github.githubassets.com/images/mona-whisper.gif" height="50px" width="50px" alt="Hey IMG" />
+### Efe here 👋🏻 <img src="https://github.com/efebagri/EfeBagri/blob/main/mona-whisper.gif" height="50px" width="50px" alt="Hey IMG?" />
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=efebagri.efebagri)
@@ -22,6 +22,6 @@
 
 <img src="https://wakatime.com/share/@A1m2e3k4/a0517b96-91c0-4c4b-8046-45c649428f57.png" />
 
-## 🔧 Technologies & Tools
+#### 🔧 Technologies & Tools
 
 <img src="https://wakatime.com/share/@A1m2e3k4/931bbd10-6dce-40c6-b254-19f08f20c417.png" />
