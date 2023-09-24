@@ -16,7 +16,7 @@
 
 #### ⌨️ Coding Editors (since 18.01.2023):
 
-<img src="https://wakatime.com/share/@A1m2e3k4/fd3eb1f7-3706-4da6-9d4f-226bd281c7dc.png" />
+<img src="https://wakatime.com/share/@A1m2e3k4/a7a9f877-cdaf-4927-aac2-dd696054f25b.png" />
 
 #### 📈 Activity (last 30 days):
 
@@ -24,4 +24,4 @@
 
 ## 🔧 Technologies & Tools
 
-<img src="https://wakatime.com/share/@A1m2e3k4/e36521fe-c9c1-431d-8fde-d0881db18a12.png" />
+<img src="https://wakatime.com/share/@A1m2e3k4/931bbd10-6dce-40c6-b254-19f08f20c417.png" />
