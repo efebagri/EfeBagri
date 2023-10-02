@@ -1,4 +1,11 @@
-### Efe here 👋🏻 <img src="https://github.com/efebagri/EfeBagri/blob/main/mona-whisper.gif" height="50px" width="50px" alt="Hey IMG?" />
+<h4 align="center"><samp> Hi there 👋🏻 welcome to my Github! </samp></h4>
+<p align="center">
+  <a href="https://github.com/efebagri?tab=repositories"><strong> » Explore «</strong></a>
+  <br/>
+  <br/>
+  <img src="https://edgecats.net/" alt="Cat" width="50%"/>
+</p>
+
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=efebagri.efebagri)
