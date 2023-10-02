@@ -2,8 +2,7 @@
 <p align="center">
   <a href="https://github.com/efebagri?tab=repositories"><strong> » Explore «</strong></a>
   <br/>
-  <br/>
-  <img src="https://edgecats.net/" alt="Cat" width="50%"/>
+  <img src="https://raw.githubusercontent.com/efebagri/EfeBagri/main/mona-whisper.gif" alt="Cat" width="10%"/>
 </p>
 
 ---
