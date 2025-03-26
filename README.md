@@ -18,16 +18,16 @@
 
 #### 🧑🏻‍💻 Languagues (since 18.01.2023):
 
-<img src="https://wakatime.com/share/@A1m2e3k4/6c0a2631-d162-4758-a341-d7df285e8539.png" />
+<a><img src="https://wakatime.com/share/@efebagri/f5e2e60b-202f-4e6f-8cbe-a4a820b59745.png" /></a>
 
 #### ⌨️ Coding Editors (since 18.01.2023):
 
-<img src="https://wakatime.com/share/@A1m2e3k4/a7a9f877-cdaf-4927-aac2-dd696054f25b.png" />
+<a><img src="https://wakatime.com/share/@efebagri/e04c2b04-9be7-4fa3-8c7b-17ddf4db2063.png" /></a>
 
 #### 📈 Activity (last 30 days):
 
-<img src="https://wakatime.com/share/@A1m2e3k4/a0517b96-91c0-4c4b-8046-45c649428f57.png" />
+<a><img src="https://wakatime.com/share/@efebagri/46069baf-ee18-46aa-9bb9-ba1c56a85d4a.png" /></a>
 
 #### 🔧 Technologies & Tools
 
-<img src="https://wakatime.com/share/@A1m2e3k4/931bbd10-6dce-40c6-b254-19f08f20c417.png" />
+<a><img src="https://wakatime.com/share/@efebagri/9b2f5262-8241-49f3-b7e2-6a83ef194293.png" /></a>
